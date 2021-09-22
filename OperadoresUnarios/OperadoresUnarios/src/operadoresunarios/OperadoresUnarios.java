@@ -47,7 +47,7 @@ public class OperadoresUnarios {
         System.out.println("j = " + j);
         
         // decremento
-        var k = 7;
+        var k = 6;
         var l = k--;
         System.out.println("k = " + k);
         System.out.println("l = " + l);
